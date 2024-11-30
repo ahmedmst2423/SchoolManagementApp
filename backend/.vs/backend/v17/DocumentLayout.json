@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\Desktop\\React_ASP\\student-management-system\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC48C0C-FD5B-43E8-A457-4BD40C2BF213}|backend\\backend.csproj|c:\\users\\ahmed\\desktop\\react_asp\\student-management-system\\backend\\backend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC48C0C-FD5B-43E8-A457-4BD40C2BF213}|backend\\backend.csproj|solutionrelative:backend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC48C0C-FD5B-43E8-A457-4BD40C2BF213}|backend\\backend.csproj|c:\\users\\ahmed\\desktop\\react_asp\\student-management-system\\backend\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC48C0C-FD5B-43E8-A457-4BD40C2BF213}|backend\\backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC48C0C-FD5B-43E8-A457-4BD40C2BF213}|backend\\backend.csproj|c:\\users\\ahmed\\desktop\\react_asp\\student-management-system\\backend\\backend\\controllers\\studentenrolledcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC48C0C-FD5B-43E8-A457-4BD40C2BF213}|backend\\backend.csproj|solutionrelative:backend\\controllers\\studentenrolledcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC48C0C-FD5B-43E8-A457-4BD40C2BF213}|backend\\backend.csproj|c:\\users\\ahmed\\desktop\\react_asp\\student-management-system\\backend\\backend\\models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC48C0C-FD5B-43E8-A457-4BD40C2BF213}|backend\\backend.csproj|solutionrelative:backend\\models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC48C0C-FD5B-43E8-A457-4BD40C2BF213}|backend\\backend.csproj|c:\\users\\ahmed\\desktop\\react_asp\\student-management-system\\backend\\backend\\models\\studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC48C0C-FD5B-43E8-A457-4BD40C2BF213}|backend\\backend.csproj|solutionrelative:backend\\models\\studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentEnrolledController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\React_ASP\\student-management-system\\backend\\backend\\Controllers\\StudentEnrolledController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\StudentEnrolledController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\React_ASP\\student-management-system\\backend\\backend\\Controllers\\StudentEnrolledController.cs",
+              "RelativeToolTip": "backend\\Controllers\\StudentEnrolledController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:25:46.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\React_ASP\\student-management-system\\backend\\backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\React_ASP\\student-management-system\\backend\\backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "backend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:41:50.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\React_ASP\\student-management-system\\backend\\backend\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\React_ASP\\student-management-system\\backend\\backend\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "backend\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:41:50.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentClass.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\React_ASP\\student-management-system\\backend\\backend\\Models\\StudentClass.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\StudentClass.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\React_ASP\\student-management-system\\backend\\backend\\Models\\StudentClass.cs",
+              "RelativeToolTip": "backend\\Models\\StudentClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:41:50.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserClass.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\React_ASP\\student-management-system\\backend\\backend\\Models\\UserClass.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\UserClass.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\React_ASP\\student-management-system\\backend\\backend\\Models\\UserClass.cs",
+              "RelativeToolTip": "backend\\Models\\UserClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:41:50.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
