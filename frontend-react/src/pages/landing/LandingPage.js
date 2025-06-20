@@ -10,7 +10,7 @@ function LandingPage() {
 
       <section className="overview-section">
         <div className="container">
-          <h1>Welcome to Loyalist College</h1>
+          <h1>Welcome to Fast School</h1>
           <p>Empowering Minds, Enriching Lives</p>
           <p>Experience excellence in education and innovation.</p>
         </div>
@@ -51,11 +51,11 @@ function LandingPage() {
         <div className="container">
           <h2>What Our Students Say</h2>
           <div className="testimonial-card">
-            <p>"Loyalist College has provided me with an unparalleled learning experience. The faculty is top-notch, and the programs are designed for success."</p>
+            <p>"Fast School has provided me with an unparalleled learning experience. The faculty is top-notch, and the programs are designed for success."</p>
             <span className="testimonial-author">- Emily Johnson, Computer Science</span>
           </div>
           <div className="testimonial-card">
-            <p>"The Business Administration program at Loyalist College prepared me for the challenges of the business world. I am grateful for the skills and knowledge gained."</p>
+            <p>"The Business Administration program at Fast School prepared me for the challenges of the business world. I am grateful for the skills and knowledge gained."</p>
             <span className="testimonial-author">- James Anderson, Business Administration</span>
           </div>
         </div>
@@ -64,7 +64,7 @@ function LandingPage() {
       <section className="contact-section">
         <div className="container">
           <h2>Get in Touch</h2>
-          <p>Have questions or need more information? Contact our admissions team: <a href ="mailto:admin@loyalistcollege.com">admin@loyalistcollege.com</a></p>
+          <p>Have questions or need more information? Contact our admissions team: <a href ="mailto:admin@fastschool.com">admin@fastschool.com</a></p>
 
         </div>
       </section>

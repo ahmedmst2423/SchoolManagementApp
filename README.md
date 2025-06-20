@@ -1,33 +1,106 @@
-<h1 align="center">Student Management System React and ASP.NET</h1>
+# School Management System
 
-### Overview:
+A comprehensive web-based School Management System designed to streamline school administration, student enrollment, and academic management processes.
 
-<p align="justify">This project is a web application for user registration, login, and role-based information management, utilizing .NET Core, ReactJs, JSON, JavaScript, and MySQL/SQL.</p>
+![Landing Page](./images/landing_page.png)
 
-### Features:
-<p>The app includes:</P>
+## Features
 
-<ol>
-  <li>Admin Login:admin can securely log in.</li>
-  <li>Admin Dashboard: Admins can add, edit, or delete user information.</li>
-</ol>
+- **User Authentication**
+  - Secure login system for administrators, teachers, and students
+  - Role-based access control
 
-### Technology stack:
-<p>Built with:</P>
+- **Dashboard**
+  - Overview of key metrics and statistics
+  - Quick access to important functions
+  - Upcoming events and announcements
 
-<ul>
-  <li>Backend: .NET Core (C#), MySQL/SQL</li>
-  <li>Frontend: ReactJs, JavaScript</li>
-  <li>Data Interchange Format: JSON</li>
- </ul>
- 
-  ### Challenges:
-  
-  <ol>
-    <li>User Authentication and Authorization: Implementing a secure system for user access.</li>
-    <li>Data Management: Creating a database schema and efficient data retrieval methods.</li>
-    <li>User Interface: Developing a user-friendly interface using ReactJs and JavaScript.</li>
-  </ol>
-  
-  <h3>Thank You</h3>
-</html>
+![Dashboard](./images/dashboard.png)
+
+- **Student Management**
+  - Student registration and profile management
+  - Academic records and performance tracking
+  - Attendance management
+
+- **Enrollment System**
+  - Online course enrollment
+  - Class scheduling
+  - Fee management
+
+![Enrollment Page](./images/enrollment_page.png)
+
+- **Teacher Portal**
+  - Class and subject assignment
+  - Gradebook functionality
+  - Attendance marking
+
+- **Parent Portal**
+  - Monitor student progress
+  - View attendance records
+  - Communication with teachers
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+- MongoDB (or MongoDB Atlas)
+
+### Installation
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/yourusername/SchoolManagementApp.git
+   cd SchoolManagementApp
+   ```
+
+2. Install dependencies
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+3. Set up environment variables
+   Create a `.env` file in the root directory and add the following:
+   ```
+   MONGODB_URI=your_mongodb_connection_string
+   JWT_SECRET=your_jwt_secret
+   PORT=3000
+   ```
+
+4. Start the development server
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+5. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+## Login
+
+Access the login page to enter the system:
+
+![Login Page](./images/login_page.png)
+
+## Technologies Used
+
+- **Frontend**: React.js, Redux, Material-UI
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Authentication**: JWT
+- **Styling**: CSS Modules, SASS
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com)

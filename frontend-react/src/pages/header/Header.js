@@ -47,7 +47,7 @@ function Header() {
                 <a className="navbar-brand">
                     <img src={Logo} alt="Logo" width="45" height="35"
                         className="d-inline-block align-text-top" />
-                    <span className="text-light fw-bold font-monospace">Loyalist College</span>
+                    <span className="text-light fw-bold font-monospace">FAST School</span>
                 </a>
                 {
                     token ? (

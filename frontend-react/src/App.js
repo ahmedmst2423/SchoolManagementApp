@@ -34,7 +34,7 @@ function App() {
         <Route path="/enrollment-success" element={<EnrollmentSuccessPage/>} />
         <Route path="/" element={<LandingPage />} />
         {/*Private Route */}
-        <Route element={<PrivateRoutes />}>
+        {/* <Route element={<PrivateRoutes />}> */}
         
           <Route path='/dashboard' Component={Dashboard} />
           <Route path='/dashboard/add-student' Component={Adduser} />
@@ -47,9 +47,9 @@ function App() {
           <Route path='/dashboard/view-student/:id' Component={Viewuser}/>
       
           <Route path='/dashboard/enrolled-list/' Component={EnrollmentList} />
-        </Route>
+        {/* </Route> */}
       </Routes>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
