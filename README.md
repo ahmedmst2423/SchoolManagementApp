@@ -87,20 +87,10 @@ Access the login page to enter the system:
 
 ## Technologies Used
 
-- **Frontend**: React.js, Redux, Material-UI
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Frontend**: React.js, Redux
+- **Backend**: ASP.NET
+- **Database**: MySQL
 - **Authentication**: JWT
-- **Styling**: CSS Modules, SASS
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com)
